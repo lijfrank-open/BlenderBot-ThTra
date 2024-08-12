@@ -1,0 +1,1588 @@
+[
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "Hello good afternoon."
+      ],
+      "responses": [
+        [
+          "Hi, good afternoon.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "I'm feeling anxious that I am going to lose my job."
+      ],
+      "responses": [
+        [
+          "Losing a job is always anxious.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "I hope I don't."
+      ],
+      "responses": [
+        [
+          "Why do you think you will lose your job?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "I am on short term disability and I am not ready to go back to work yet but I do not have any job protection."
+      ],
+      "responses": [
+        [
+          "Oh so your job is not protected and your short term disability will end soon? Is that correct?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "It's not ending yet, but no my job is not protected. I live in the United States, but I have not been at my job long enough to earn protection for medical leave. you have to have been here for a year, and I started November 2020 I'm afraid that I will lose my job since I'm still on disability for the foreseeable future."
+      ],
+      "responses": [
+        [
+          "I see. Have you spoken to HR?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "I have, but they are telling me that it is up to my department manager who isn't actually getting back to me about it yet."
+      ],
+      "responses": [
+        [
+          "Your department manager is not answering you?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "No, I have sent them a few emails about it. It makes me nervous. I do not have a phone number to call and my psychiatrist really does not think I am ready to go back to the stress of my job. I wish I could just call him, but I do not have a phone number for him. Just his email."
+      ],
+      "responses": [
+        [
+          "Have you tried mentioning that to HR?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I am on short term disability and I am afraid I will lose my job if I don't go back soon.",
+      "context": [
+        "HR is the one who gave me his email. I don't think he has a direct work line, and they're not allowed to give out personal information."
+      ],
+      "responses": [
+        [
+          "Yes that is how most employments work about providing personal information. That in itself causes anxiety to most since other forms of communication is not possible especially if they are not responding to ciritcal matters.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "hello I am ok how are you?"
+      ],
+      "responses": [
+        [
+          "I am well, what's on your mind?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "well as I stated above my father passed last year and now due to finances we need to move. I am out of work due to Covid19 it is hard moving not being able to support my family"
+      ],
+      "responses": [
+        [
+          "So sorry to hear about your plight. Life is a roller coaster and sometimes it gets out of control, I hope things slow down so you can get things straightened out.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "thank you! I find myself so stressed then I get scared and depressed wondering what will the future hold will we be ok will we take another hit will I get sick will my Mother be ok"
+      ],
+      "responses": [
+        [
+          "I understand your concerns about being stressed, scared and depressed. The risk of family getting sick is certainly valid.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "it keeps me up at night and I cant seem to get away form it even for a moment"
+      ],
+      "responses": [
+        [
+          "I too worry about things I feel I cannot control, the lack of sleep due to this just makes it worse so I try to think of positive things, but its hard.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "yes and its always in the back of my mind burning. Like don't be to happy because things are going to fail"
+      ],
+      "responses": [
+        [
+          "Its hard to stop those negative thoughts, but the first step is sharing your feelings with others and talking about it. You are now on your way to healing.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "It does help to talk about it with someone who doesn't judge"
+      ],
+      "responses": [
+        [
+          "I can see in your words how stressed you are and troubled.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "This whole covid thing makes it 10 times worse"
+      ],
+      "responses": [
+        [
+          "May I suggest that you seek some face to face support from a best friend or close family member.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "easier said then done I'm high risk so I have been social distancing"
+      ],
+      "responses": [
+        [
+          "Its still possible. Social distancing, six feet away but in maybe your backyard or even a park away from others so you can talk with some degree of confidence that its private. Just being around another person is so very supportive and positive. Please try.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "maybe but I need to be carful plus honest I dont want many people to know about my feelings"
+      ],
+      "responses": [
+        [
+          "True. Remember, you are not the only one facing these troubles, others are tackling it too. Try also to google online support groups on Reddit and blogs for additional assistance and suggestions from those who faced it and succeeded. Doing what others did to overcome it means not having to reinvent the whole process on your own.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "maybe an online chat group"
+      ],
+      "responses": [
+        [
+          "That's the way to go. Keep seeking help. The right solution is there for you. Now you have a plan to get started.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "well I don't know if its a plan but an idea just knowing I'm not alone helps"
+      ],
+      "responses": [
+        [
+          "Yes, it a problem so many people are facing. My own family members are facing this too.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "yes I know and with covid so many are depressed stressed and sad"
+      ],
+      "responses": [
+        [
+          "I read a few articles on Psychology today website that might help you also. They discuss how to control stress and overcome depression in this world of COVID. Written by some doctors and they are free to read.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I have been in a depression since my father died last year. We have had to sell our home and move to a much smaller place due to losing his income. I am older but lived with my parents to help them because they are both ill. it has been an ongoing struggle",
+      "context": [
+        "thanks I will have to look online take your suggestion"
+      ],
+      "responses": [
+        [
+          "You are welcome. You are on your way.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "Hello Hello"
+      ],
+      "responses": [
+        [
+          "Who am I currently speaking with? I am Bob, your Christmas Night therapist and helper. I hope I can assist you this Christmas Night. It takes courage to tell how you are feeling.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "Hello Bob, nice to meet you I would like to talk but not sure if I can I will try"
+      ],
+      "responses": [
+        [
+          "How can I help you?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "I am a caregiver and i can only come back and forth"
+      ],
+      "responses": [
+        [
+          "Please do your best. That is all I can expect. Can you elaborate? What do you mean by that? You're doing great by contributing to your own cause on Christmas Night. Do you like Christmas cookies?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "My main job started so i am in this room an at the same time i wan to do mTurk and take care of them]"
+      ],
+      "responses": [
+        [
+          "Bob has some jelly cookies for you. I feel good asking you about how I can give you true insights on life. You made the right decision to join and discuss your feelings. Do you like the Christmas Holidays? I can suggest Uber or Lyft or Door Dash or Grub Hub for you. I feel that you can earn and not be so sad and depressed this holiday. I am baking cookies for others, so don't feel sad. Maybe I can cheer you up with chocolate chip cookies. I am here to help you in soooo many ways.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "that is wonderful I love chocolate chip cookie thanks for your encouragemnt I think that already helped,e"
+      ],
+      "responses": [
+        [
+          "Yes, it is. I love chocoalate chip. Do you have the chance to make Christmas Cookies? Perhaps you could bake some using Bob's Xmas Cookie Recipe and share the joy that Christmas brings to the World. Would you be interested?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "not today but sometime this week. oh nice 1 yes please"
+      ],
+      "responses": [
+        [
+          "Cooking cookies for others is a great way to cheer up. You could also create a small business by making your own type of cookies.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "I made oatmeal cookie last week. I love baking wonderful, i would pay $ to buy Bob's cookie"
+      ],
+      "responses": [
+        [
+          "You said you love baking? Well, other people who see you love to cook will get Joy from you. : )",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "nice, thank you"
+      ],
+      "responses": [
+        [
+          "I feel good to share my insights.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I would like to get an online job  but it is very competitive.",
+      "context": [
+        "yes I love it. I put 2 cups of sugar all the time. 2 sticks ofbutter"
+      ],
+      "responses": [
+        [
+          "Did you need any other insights from me to be glad? I feel that being a professional baker my be the right career for you!",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "my recent ex gf gave her daughters drugs while on a video chat with me. While being very dishonest in our relationship, i am devestated about the truth of all of it now that its over. I really loved her. and her kids. we had some great times. I turned her in for giving her kids drugs as thats not okay. today im super sad. i dont have any motivation. I dont want to really be around, and im trapped in my thoughts with everything. i had to move to get away from her stalking me. now im in a new place trying to find a job and get set up here. Its difficult to start over. its a pretty intense situation i admit."
+      ],
+      "responses": [
+        [
+          "You are girlfriend is giving drugs to hew own kids. Did I get it right?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "That is what she did. Among many other things."
+      ],
+      "responses": [
+        [
+          "That is really intense, unacceptable. I am feeling sorry for the poor little girl and you. It looks like there is something wrong with her. I can understand what you are going through.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "Its a difficult time. I want to do nothing. It feels very bleek right now worrying about finances and getting set up in a new state."
+      ],
+      "responses": [
+        [
+          "It must be hard time for you. You should not worry about her. You should think about your job and the poor girl who is trapped with her.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "her daughters now both live with their dads. so thats taken care of, he kids are safer and better off. I however am devastated that the whole relationship wound up a lie and the whole thing has me really in a bad place mentally."
+      ],
+      "responses": [
+        [
+          "I felt the same way when I broke up with my friend for some pathetic things which she did. The good part is girls are safe now. Give some time to yourself. Time will heal everything.",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "Thats a hard light to see at the end of the tunnel when things are bleek. im not sure what else to do. My mind runs away a bit right now, its just all stress ful"
+      ],
+      "responses": [
+        [
+          "So sorry to hear about that. You should indulge yourself in some activities like yoga or meditation. talk to your family and friends and go to them for a while. It will help you and you can come out of it.",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "Finding a better job. might be a more productive task."
+      ],
+      "responses": [
+        [
+          "You will get one soon. Keep working on. My best wishes are there with you. Time never stay the same.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "depression",
+      "problem_type": "breakup with partner",
+      "dialog_id": "turned in ex gf to cps for giving her kids drugs.",
+      "context": [
+        "you dont want to continue to talk"
+      ],
+      "responses": [
+        [
+          "No, that is not the case. You can talk as much as you want.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Hi can you help me with my problem?"
+      ],
+      "responses": [
+        [
+          "Hello. What's on your mind?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "I'm disgusted with my friend for cheating on her boyfriend. Am I right to feel this way?"
+      ],
+      "responses": [
+        [
+          "Your feelings are valid, no matter what they are. Why do you think you're disgusted with her?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Because she's not acting the way she should be acting. Her boyfriend is a nice guy so he doesn't deserve this treatment"
+      ],
+      "responses": [
+        [
+          "It sounds like she did something you find really immoral. Is their relationship generally pretty good, to your knowledge?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Yeah, but I'm also thinking it's not my business. I should just stay out of it. Well I thought it was good until that happened. He doesn't know. So I just feel gross around them."
+      ],
+      "responses": [
+        [
+          "Have you talked to your friend about what she did?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Yeah, she doesn't really care because she's not going to tell him. I'm questioning whether I should still be friends with her."
+      ],
+      "responses": [
+        [
+          "You're definite right to be questioning if this is the sort of person you want to be friends with.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "It's hard to stop thought because we work at the same place. though.."
+      ],
+      "responses": [
+        [
+          "If her behavior is getting to you like this, I definitely suggest you try to keep some distance from her as much as you can.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Yeah, I've been trying to, but she's always talking to me"
+      ],
+      "responses": [
+        [
+          "It might be a good idea to explain why you're upset with her, even though that's likely to upset her.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "I guess, but I'd rather just avoid her. I'm thinking if I ignore her then she she'll get the hint"
+      ],
+      "responses": [
+        [
+          "I can definitely understand wanting to avoid a confrontation.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "disgust",
+      "problem_type": "problems with friends",
+      "dialog_id": "one of my friends cheated on her boyfriend.",
+      "context": [
+        "Yeah, I realize she's quite selfish so confronting her wouldn't help."
+      ],
+      "responses": [
+        [
+          "What do you think you can do to minimize your contact with her?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I've tried this before and there wasn't anyone on the support side... I also tried to be the supporter but I think the screen froze at some point. I couldn't complete that side. So, I'm trying this again. Not sure if I got credit for the others. Hoping I won't be punished with a rejection for talking to myself."
+      ],
+      "responses": [
+        [
+          "Hello how are you? I am here to support you.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "Oh, hi! Thank you. I was just talking to myself. lol No one showed up the last few times I tried to do this."
+      ],
+      "responses": [
+        [
+          "How can I help support you today? I know these are tough times and we all need to be heard.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I'm just looking for someone new to talk to. I don't really feel like I can express my actual feelings in my current living arrangement."
+      ],
+      "responses": [
+        [
+          "I understand. I have had to stay by myself for most of the year due to the pandemic. That has been hard.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I've heard the pandemic has affected a lot of people. I'm always alone anyway...or with my roommate,so I haven't noticed much of a difference. It's difficult when we have absolutely nothing in common."
+      ],
+      "responses": [
+        [
+          "Have you tried different games that help you get to know each other? Maybe try a movie or series. I loved Sweet Magnolia's on Netflix.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I'm mainly worried that she'll throw me out of the house and I'll have no where to live. Oh god forbid we watch a movie. She's too obsessed with CNN to watch anything else. She's become brainwashed by the tabloid media..."
+      ],
+      "responses": [
+        [
+          "Oh my goodness. The good thing is there is a moratorium on evictions so she would not be able to do that legally. CNN can be overwhelming. Try giving her some type of distraction. Suggest yoga or some type of bonding. I think 24/7 news is problematic but here to stay.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I actually do yoga every evening. She hates it. I'm living in her home without a lease, so I wonder if she can just tell me to leave. I can't imagine why anyone would want to watch the news for more than to just catch up (If you like lies and nonsense)"
+      ],
+      "responses": [
+        [
+          "As long as you have property there she would have to formally evict you. That is the good news.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "That is good news. Thanks for letting me know that."
+      ],
+      "responses": [
+        [
+          "I think it is best to stick with a short local news report. My pleasure. So many people are worried about losing their place to stay but thankfully most are protected due to the pandemic.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "I just found mturk. I just started here. Any advice as to what to do? I've mainly just been doing surveys. I'm not good at the small tasks."
+      ],
+      "responses": [
+        [
+          "Check Youtube videos on using Panda's. It will help you make more money. I have done over 750,000 hits.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "fear",
+      "problem_type": "ongoing depression",
+      "dialog_id": "I'm fearful of where I'll be living in the future.",
+      "context": [
+        "Oh wow, that's amazing! I've done this particular hit 3 times...I've only found a person once though. I will definitely check out the videos. thank you! What are pandas? Or is it too hard to explain?"
+      ],
+      "responses": [
+        [
+          "You are welcome. Panda's help you keep grabbing hits. You can store 25 at a time.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "hi I need help. I'm under academic stress"
+      ],
+      "responses": [
+        [
+          "What are you stressed about?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "I am failing one of my classic. I'm worried about my scholarship"
+      ],
+      "responses": [
+        [
+          "Oh, Covid is really having a negative affect on a lot of students, right now. Has school from home had anegative affect on you?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "Yeah, I feel like I can't focus because I'm back home with my family and I just feel like there are so many distractions."
+      ],
+      "responses": [
+        [
+          "It's interesting that you find being home more distracting than being away in a dorm.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "Yeah thats really the reason I wanted to go away from college. I dont really have my own space when I'm here. People just come in and out of my room as they please in spite of how busy I am."
+      ],
+      "responses": [
+        [
+          "Yeah sometimes families can struggle with the idea of boundaries. I also went away to school for similar reasons, but I actually found college life way more distracting tbh. Have you told your family about the issues your having?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "I honestly am worried that they will be disappointed. Maybe that's crazy. I just remember how proud they were when I got this scholarship. I don't want them to blame me."
+      ],
+      "responses": [
+        [
+          "OK, that makes sense. Have you spoken tried speaking to your teachers",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "I'm failing my classes and I'm on scholarship",
+      "context": [
+        "Yeeah thats why im not officially failed. My teacher gave me an extention on my final. So, I'm working on it, but i just can't focus."
+      ],
+      "responses": [
+        [
+          "Okay, then I think you need to find a place you can claim for yourself. Either you can tell set up a study schedule with your parents and request to not be contacted during that time frame, then if they don't seem to have the ability to abide by that, you could try the outdoor seating of a starbucks or even an ikea or library.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "Hi..Iam doing good..how are you"
+      ],
+      "responses": [
+        [
+          "Iam good..thank you..Iam here to help you about the emotional support you need.Tell me what you want to talk about?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "Iam in final year of university and iam unable to complete the studies"
+      ],
+      "responses": [
+        [
+          "Oh I can relate to that,what is been stopping you from completing your work.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "Iam a mother of 2 year old son and he is giving me a hard time to finish my work.."
+      ],
+      "responses": [
+        [
+          "Oh..Is it possible that your husband helps you in taking care of your toddler..",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "My husband is having full time job and he has to travel an hour to get to work.."
+      ],
+      "responses": [
+        [
+          "Oh I can understand that..is there any chance that you can ak your parents to help?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "My parents live in another country and they cannot come here to my place because they dont have a valid visa.."
+      ],
+      "responses": [
+        [
+          "Oh.without a visa i dont think they can enter in to the country..I can see the pain you are going through..",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "Is there any other option for me to consider?"
+      ],
+      "responses": [
+        [
+          "I think if you can go for hiring a personal nanny..if you can afford it..What do you say?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "I am little low on budget and cannot afford a nanny for my kid..or i cannot afford day care centers.."
+      ],
+      "responses": [
+        [
+          "Oh that is a problem..ok you can try for applying child care assistance provided by the government to help you take care of your expenses..can you do it?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "I think i can search for it and work on it..This is a good idea.."
+      ],
+      "responses": [
+        [
+          "yeah you can call to local government agencies or any social welfare organizations to help you on this..and I think you will find a solution to your problem..",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "academic pressure",
+      "dialog_id": "Iam facing a lot of academic pressure to coplete the degree on time..",
+      "context": [
+        "sure..thank you for your help..I really appreciate it.."
+      ],
+      "responses": [
+        [
+          "happy to help..I hope you will be feeling better soon..bye..",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "Hello. Thanks for helping me today."
+      ],
+      "responses": [
+        [
+          "No problem! How can I help you?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "I'm feeling anxious about finding work and and impatient with the application process at many places I\"ve applied."
+      ],
+      "responses": [
+        [
+          "So from what I am understanding, you have been applying for jobs and you are having anxiety about finding one and waiting through the application process.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "Yes thats right. I keep trying and feel like I\"m not getting anywhere."
+      ],
+      "responses": [
+        [
+          "Just from the few messages we have shared I can tell how anxious this is making you.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "Yes. I think that I might have to try to find a different type of work than I\"m used to and I'm not sure I'll be good at trying something new."
+      ],
+      "responses": [
+        [
+          "I just recently went through a layoff at my company, and I had the same situation trying to find another job. It is very stressful.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "I wish that I could get more of a reason than just a denial of my application. I'm not sure what I'm doing wrong and most companies won't give any feedback."
+      ],
+      "responses": [
+        [
+          "What have you done to reach out for feedback from the companies? Often it helps to send e-mails or make phone calls to have them give you some feedback.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "I haven't tried reaching out. Most of the places I\"ve been applying are huge corporations with no one to call at HR. Maybe I should try to apply somewhere locally and see if I have better luck. At least then I could talk to a person."
+      ],
+      "responses": [
+        [
+          "I think that would be a great start! It also might help to get business cards from the people you interview with in order to be able to reach out to them in the future.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "Thats a great idea. I've been considering going back to school to see if I can maybe get a higher degree. Ive got a Bachelors degree now and it seems like everything takes a Masters degree these days."
+      ],
+      "responses": [
+        [
+          "What type of work are you interested in?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "job crisis",
+      "dialog_id": "I recently left my job because of a toxic environment but now I'm having trouble finding another and I'm running out of money.",
+      "context": [
+        "What I'm most interested in is importing and exporting of exotic fruit but the recent restrictions on travel have really hurt the business. I've been thinking maybe I'll go back to school for something more practical like plumbing"
+      ],
+      "responses": [
+        [
+          "I think that would be a great idea! It has been shown that people with higher level degrees make more money and have more opportunity than those without,",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "I need understanding at this time. Please respond and help me see what I did wrong."
+      ],
+      "responses": [
+        [
+          "Hi, sorry I just saw this How are you and how may I assist you?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn",
+          "Warn",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "Thanks for answering me. I need support for my depression."
+      ],
+      "responses": [
+        [
+          "I am so sorry to hear it. I am happy assist.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "What can you tellme to help me adjust."
+      ],
+      "responses": [
+        [
+          "Although I am not a specialist, I might be able to cheer you up a little",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "That would be wnderful. Thank you. Are you there?"
+      ],
+      "responses": [
+        [
+          "What is your most concern at this point? I understand you are having a depression, that must be a great suffering.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "It is. I want t feel like a good person again."
+      ],
+      "responses": [
+        [
+          "You can become whoever you want to be",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "I am not sure of that. I feel like a failure."
+      ],
+      "responses": [
+        [
+          "Are you getting enough sleep lately?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "Yes. Maybe too much."
+      ],
+      "responses": [
+        [
+          "There is no failure. People were born in certain way. Each person was programmed differently. It is your uniqueness , not failure. maybe your body needs to rejuvenate maybe your body needs to rejuvenate",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Warn"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "That makes sense. If I could look at it that way I might make it through this. useless person. I want to feel hopeful again.I feel like a Wrong typing there"
+      ],
+      "responses": [
+        [
+          "Somebody told me that confidence is the most important. I hope you will feel a great confidence in you and feel great soon.",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    },
+    {
+      "emotion_type": "anxiety",
+      "problem_type": "ongoing depression",
+      "dialog_id": "Ilost my home when my partner died. He had changed the will and I didn't know.",
+      "context": [
+        "Thank you for caring about me. I needed that very much."
+      ],
+      "responses": [
+        [
+          "Great, I am so glad I was able to chat with you today Is there anything I can do for you today?",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection",
+          "Simple Reflection"
+        ]
+      ]
+    }
+  ]
+]

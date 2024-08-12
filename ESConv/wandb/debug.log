@@ -1,0 +1,26 @@
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Current SDK version is 0.15.4
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Configure stats pid to 1870261
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Loading settings from /home/countrycelebration/.config/wandb/settings
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Loading settings from /home/countrycelebration/code/Aligned-dPM-original/ESConv/wandb/settings
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'align_ESConv.py', 'program': 'align_ESConv.py'}
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_setup.py:_flush():76] Applying login settings: {'mode': 'offline'}
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_init.py:_log_setup():507] Logging user logs to /home/countrycelebration/code/Aligned-dPM-original/ESConv/wandb/offline-run-20231206_232708-rycg7b0b/logs/debug.log
+2023-12-06 23:27:08,150 INFO    MainThread:1870261 [wandb_init.py:_log_setup():508] Logging internal logs to /home/countrycelebration/code/Aligned-dPM-original/ESConv/wandb/offline-run-20231206_232708-rycg7b0b/logs/debug-internal.log
+2023-12-06 23:27:08,151 INFO    MainThread:1870261 [wandb_init.py:init():547] calling init triggers
+2023-12-06 23:27:08,151 INFO    MainThread:1870261 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {'config_name': 'strat', 'inputter_name': 'strat', 'align_seed': 42, 'checkpoint_dir': '/home/countrycelebration/code/Aligned-dPM-original/ESConv/DATA/strat.strat/2023-12-06222239.3e-05.16.1gpu', 'save_total_limit': 3, 'max_src_turn': None, 'max_input_length': 160, 'max_decoder_input_length': 40, 'max_knowledge_len': None, 'multi_knl': False, 'label_num': None, 'only_encode': False, 'train_input_file': 'DATA/train.txt', 'eval_input_file': 'DATA/valid.txt', 'infer_input_file': 'DATA/test.txt', 'candidate_num': 10, 'epoch_num': 10, 'train_batch_size': 1, 'accumulate_step': 16, 'valid_step': 400, 'max_lr': 0.0005, 'warmup_step': 400, 'margin': 0.001, 'gold_margin': 0, 'gold_weight': 0, 'rank_weight': 1, 'lm_weight': 1, 'scale': 1, 'infer_batch_size': 16, 'eval_batch_size': 16, 'optim_step_num': 20000, 'max_grad_norm': 1.0, 'fp16': False, 'loss_scale': 0, 'pbar': True, 'chinese': False, 'local_rank': -1, 'config': None, 'device': device(type='cuda'), 'n_gpu': 1, 'mode': 'hem', 'dataloader_kwargs': {'max_input_length': 160, 'max_decoder_input_length': 40, 'max_knowledge_len': None, 'label_num': None, 'only_encode': False}, 'infer_dataloader_kwargs': {'max_src_turn': None, 'max_input_length': 160, 'max_decoder_input_length': 40, 'max_knowledge_len': None, 'label_num': None, 'multi_knl': False, 'only_encode': False, 'infer_batch_size': 16}, 'candidate_dir': '/home/countrycelebration/code/Aligned-dPM-original/ESConv/DATA/strat.strat/2023-12-06222239_candidate_10'}
+2023-12-06 23:27:08,151 INFO    MainThread:1870261 [wandb_init.py:init():596] starting backend
+2023-12-06 23:27:08,151 INFO    MainThread:1870261 [wandb_init.py:init():600] setting up manager
+2023-12-06 23:27:08,157 INFO    MainThread:1870261 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-12-06 23:27:08,162 INFO    MainThread:1870261 [wandb_init.py:init():606] backend started and connected
+2023-12-06 23:27:08,169 INFO    MainThread:1870261 [wandb_init.py:init():703] updated telemetry
+2023-12-06 23:27:08,170 INFO    MainThread:1870261 [wandb_init.py:init():736] communicating run to backend with 60.0 second timeout
+2023-12-06 23:27:08,180 INFO    MainThread:1870261 [wandb_init.py:init():787] starting run threads in backend
+2023-12-06 23:27:14,817 INFO    MainThread:1870261 [wandb_run.py:_console_start():2155] atexit reg
+2023-12-06 23:27:14,818 INFO    MainThread:1870261 [wandb_run.py:_redirect():2010] redirect: SettingsConsole.WRAP_RAW
+2023-12-06 23:27:14,818 INFO    MainThread:1870261 [wandb_run.py:_redirect():2075] Wrapping output streams.
+2023-12-06 23:27:14,818 INFO    MainThread:1870261 [wandb_run.py:_redirect():2100] Redirects installed.
+2023-12-06 23:27:14,819 INFO    MainThread:1870261 [wandb_init.py:init():828] run started, returning control to user process
+2023-12-07 02:18:30,480 WARNING MsgRouterThr:1870261 [router.py:message_loop():77] message_loop has been closed
