@@ -1,18 +1,18 @@
 # BlenderBot-ThTra
-The official implementation of the paper "[Producing Considerate Responses: Progressive staged training for emotional support conversation]()", which has been accepted by.  
+The official implementation of the paper "[Producing Considerate Responses: Progressive staged training for emotional support conversation](https://ieeexplore.ieee.org/document/10735791)", which has been accepted by IEEE Transactions on Computational Social Systems (TCSS).  
 Authors: Guoqing Lv†, Jiang Li†, Xiaoping Wang, Xin Zhan, Zhigang Zeng († Equal Contribution)  
 Affiliation: Huazhong University of Science and Technology (HUST)  
 
 ## Citation
 ```bibtex
 @article{lv2024BlenderBotThTra,
-    title={Producing Considerate Responses: Progressive staged training for emotional support conversation},
+    title={Producing considerate responses: Progressive staged training for emotional support conversation},
     author={Lv, Guoqing and Li, Jiang and Wang, Xiaoping and Zhan, Xin and Zeng, Zhigang},
     year={2024},
-    journal = {},
+    journal = {IEEE Transactions on Computational Social Systems},
     volume = {},
-    pages = {},
-    doi={}
+    pages = {1-13},
+    doi={10.1109/TCSS.2024.3477531}
 }
 ```
 
